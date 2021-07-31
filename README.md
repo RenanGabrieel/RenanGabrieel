@@ -24,6 +24,8 @@ Olá! Meu nome é Gabriel
 <p align="center">
     <img src="https://img.shields.io/github/followers/OnlyDemon?label=Follow&style=social" alt="github followers" /><br>
 </p>
+ 
+ ![Snake animation](https://github.com/OnlyDemon/OnlyDemon/blob/output/github-contribution-grid-snake.svg)
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![TS](https://img.shields.io/badge/-ts-000000?style=for-the-badge&logo=typescript&logoColor=00acd7)

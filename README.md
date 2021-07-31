@@ -27,5 +27,6 @@ Olá! Meu nome é Gabriel
  
  ![Snake animation](https://github.com/OnlyDemon/OnlyDemon/blob/output/github-contribution-grid-snake.svg)
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![TS](https://img.shields.io/badge/-ts-000000?style=for-the-badge&logo=typescript&logoColor=00acd7)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)

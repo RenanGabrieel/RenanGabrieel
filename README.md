@@ -10,6 +10,7 @@
 
 ---
 
+
 - 📫 Como chegar até mim: Demon#0801: Gabrieel#0793
 
 - ⚡ Atualmente trabalhando em um bot do discord.
@@ -36,5 +37,11 @@ Frameworks e Languages
 ![](https://img.shields.io/badge/SQLite-%2343853D?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)
 ![](https://img.shields.io/badge/MongoDB-%2343853D?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+___
+
+![Wallpaper](https://cdn.discordapp.com/attachments/860429492598472704/896314737246224465/44.png)
+
+___
 
 ![Snake animation](https://github.com/OnlyDemon/OnlyDemon/blob/output/github-contribution-grid-snake.svg)

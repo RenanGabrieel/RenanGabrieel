@@ -8,6 +8,8 @@
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-4/696206592495845427.png" alt="OnlyDemon" /> </p>
 <p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OnlyDemon&theme=dark&hide_border=true"/> </p>
 
+---
+
 - 📫 Como chegar até mim: Demon#0801: Gabrieel#0793
 
 - ⚡ Atualmente trabalhando em um bot do discord.
@@ -19,8 +21,20 @@
   </a>
 </p>
 
-![Snake animation](https://github.com/OnlyDemon/OnlyDemon/blob/output/github-contribution-grid-snake.svg)
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+Frameworks e Languages
+
+[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+#### Databases
+![](https://img.shields.io/badge/SQLite-%2343853D?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)
+![](https://img.shields.io/badge/MongoDB-%2343853D?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Snake animation](https://github.com/OnlyDemon/OnlyDemon/blob/output/github-contribution-grid-snake.svg)

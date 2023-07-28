@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/attachments/860429492598472704/871580595879297114/1aa053d3c3f7d6ac045cf5ebf5bf2cecf27e4c26.png" width="64" height="64" alt="Demon's logo"/>
 </p>
 
-<h1 align="center">Olá 👋, Meu Nome é Gabriel</h1>
+<h1 align="center">Olá 👋, Meu Nome é Renan</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=OnlyDemon&label=Profile%20views&color=0e75b6&style=flat" alt="OnlyDemon" /> </p>
 <p align="center"> <img src="https://discord.c99.nl/widget/theme-4/696206592495845427.png" alt="OnlyDemon" /> </p>
@@ -11,7 +11,7 @@
 ---
 
 
-- 📫 Como chegar até mim: Demon#0801: Gabrieel#0793
+  - 📫 Como chegar até mim: FirstDemon
 
 - ⚡ Atualmente trabalhando em um bot do discord.
 

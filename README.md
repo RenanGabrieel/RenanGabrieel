@@ -1,48 +1,76 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/860429492598472704/871580595879297114/1aa053d3c3f7d6ac045cf5ebf5bf2cecf27e4c26.png" width="64" height="64" alt="Demon's logo"/>
-</p>
 
-<h1 align="center">Olá! 👋 Meu nome é Renan Gabriel, e sou um dedicado desenvolvedor front-end com uma paixão contagiante pela programação. 💻✨ Minha jornada no mundo da tecnologia é marcada por uma busca incessante pela excelência e um compromisso constante com o aprendizado contínuo.
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/OnlyDemon/OnlyDemon/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
 
-Atualmente, estou imerso no estudo das linguagens Java e TypeScript, buscando aprimorar minhas habilidades e expandir meu conhecimento na área da programação. 🚀 Acredito que a verdadeira evolução profissional está atrelada à disposição para explorar novas tecnologias e abraçar desafios complexos.
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
-Minha abordagem proativa e meu foco em soluções inovadoras me impulsionam a superar obstáculos e a criar experiências de usuário excepcionais. Estou sempre em busca da minha melhor versão, e acredito que a chave para o sucesso está na combinação de paixão, dedicação e uma mentalidade voltada para o crescimento. 🌱
-
-Com um comprometimento constante em aprimorar minhas habilidades técnicas, estou ansioso para contribuir de maneira significativa em projetos desafiadores. Seja desenvolvendo interfaces intuitivas ou resolvendo problemas complexos de codificação, estou determinado a deixar minha marca no universo da programação. 💪
-
-Estou entusiasmado com as oportunidades que o futuro reserva e ansioso para colaborar em projetos inovadores. 🌐</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=OnlyDemon&label=Profile%20views&color=0e75b6&style=flat" alt="OnlyDemon" /> </p>
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-4/696206592495845427.png" alt="OnlyDemon" /> </p>
-<p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OnlyDemon&theme=dark&hide_border=true"/> </p>
-
----
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=OnlyDemon&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-OnlyDemon.vercel.app/api/top-langs/?username=OnlyDemon&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
 
-  - 📫 Como chegar até mim: Discord: v5yy
 
+## My Skills
 
-<p align="center">
-  <a href="https://github.com/OnlyDemon">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OnlyDemon&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OnlyDemon&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
-  </a>
-</p>
+#### Main Stack:
 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
-Frameworks e Languages
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/Style/CSS)
+#### Secondary Stack:
 
-#### Databases
-![](https://img.shields.io/badge/SQLite-%2343853D?style=for-the-badge&logo=sqlite&logoColor=white&color=003B57)
-![](https://img.shields.io/badge/MongoDB-%2343853D?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-___
+#### Studying in this moment:
 
-![Snake animation](https://github.com/OnlyDemon/OnlyDemon/blob/output/github-contribution-grid-snake.svg)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+
+#### Databases:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:contato.OnlyDemon@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://medium.com/@OnlyDemon" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

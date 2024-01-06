@@ -68,4 +68,4 @@ Estou entusiasmado com as oportunidades que o futuro reserva e ansioso para cola
 </div>&nbsp;&nbsp;
  
 
-
+![Snake animation](https://github.com/OnlyDemon/OnlyDemon/blob/output/github-contribution-grid-snake.svg)

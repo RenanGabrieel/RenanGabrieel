@@ -4,13 +4,7 @@
 
 <p align="center">Olá! 👋 Meu nome é Renan Gabriel, e sou um dedicado desenvolvedor Back-End com uma paixão contagiante pela programação. 💻✨ Minha jornada no mundo da tecnologia é marcada por uma busca incessante pela excelência e um compromisso constante com o aprendizado contínuo.
 
-Atualmente, estou imerso no estudo das linguagens Java e TypeScript, buscando aprimorar minhas habilidades e expandir meu conhecimento na área da programação. 🚀 Acredito que a verdadeira evolução profissional está atrelada à disposição para explorar novas tecnologias e abraçar desafios complexos.
-
-Minha abordagem proativa e meu foco em soluções inovadoras me impulsionam a superar obstáculos e a criar experiências de usuário excepcionais. Estou sempre em busca da minha melhor versão, e acredito que a chave para o sucesso está na combinação de paixão, dedicação e uma mentalidade voltada para o crescimento. 🌱
-
-Com um comprometimento constante em aprimorar minhas habilidades técnicas, estou ansioso para contribuir de maneira significativa em projetos desafiadores. Seja desenvolvendo interfaces intuitivas ou resolvendo problemas complexos de codificação, estou determinado a deixar minha marca no universo da programação. 💪
-
-Estou entusiasmado com as oportunidades que o futuro reserva e ansioso para colaborar em projetos inovadores.</p>&nbsp;
+Atualmente, estou imerso no estudo das linguagens Java e TypeScript, buscando aprimorar minhas habilidades e expandir meu conhecimento na área da programação. 🚀 
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RenanGabrieel&theme=whatsapp-dark" />

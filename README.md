@@ -7,19 +7,6 @@
 Atualmente, estou imerso no estudo das linguagens Java e Kotlin, buscando aprimorar minhas habilidades e expandir meu conhecimento na área da programação. 🚀 
 
 
- import Desenvolvedor from "renangabrieel";
-
-class SobreMim extends Desenvolvedor {
-  nome = "Renan Gabriel";
-  area = "Desenvolvedor Back-End";
-  trabalho = "Onde trabalha";
-  local = "Sumaré, Sp.";
-}
-
-class Skills extends Desenvolvedor {
-  linguagens = ["Java, Kotlin"];
-}
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RenanGabrieel&theme=whatsapp-dark" />
  </div>

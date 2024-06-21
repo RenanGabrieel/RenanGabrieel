@@ -2,9 +2,9 @@
 <img width="1834" alt="Make your README (1)" src="https://github.com/OnlyDemon/OnlyDemon/assets/86238041/c3ce3b4c-c367-405a-9b7f-647fd8449959">
 
 
-<p align="center">Olá! 👋 Meu nome é Renan Gabriel, e sou um dedicado desenvolvedor Back-End com uma paixão contagiante pela programação. 💻✨ Minha jornada no mundo da tecnologia é marcada por uma busca incessante pela excelência e um compromisso constante com o aprendizado contínuo.
+<p align="center">Olá! 👋 Me chamo Renan Gabriel, e sou um dedicado desenvolvedor Back-End com uma paixão contagiante pela programação. 💻✨ Minha jornada no mundo da tecnologia é marcada por uma busca incessante pela excelência e um compromisso constante com o aprendizado contínuo.
 
-Atualmente, estou imerso no estudo das linguagens Java e Kotlin, buscando aprimorar minhas habilidades e expandir meu conhecimento na área da programação. 🚀 
+Atualmente, estou imerso no estudo das linguagens Java, JavaScript e typecript, buscando aprimorar minhas habilidades e expandir meu conhecimento na área da programação. 🚀 
 
 
 <div  align="center" style="margin-bottom:100px">
@@ -23,6 +23,7 @@ Atualmente, estou imerso no estudo das linguagens Java e Kotlin, buscando aprimo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 

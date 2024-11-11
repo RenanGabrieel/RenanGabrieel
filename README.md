@@ -2,10 +2,6 @@
 <img width="1834" alt="Make your README (1)" src="https://github.com/OnlyDemon/OnlyDemon/assets/86238041/c3ce3b4c-c367-405a-9b7f-647fd8449959">
 
 
-<p align="center">Olá! 👋 Me chamo Renan Gabriel, e sou um dedicado desenvolvedor Back-End com uma paixão contagiante pela programação. 💻✨ Minha jornada no mundo da tecnologia é marcada por uma busca incessante pela excelência e um compromisso constante com o aprendizado contínuo.
-
-Atualmente, estou imerso no estudo das linguagens Java, JavaScript e typecript, buscando aprimorar minhas habilidades e expandir meu conhecimento na área da programação. 🚀 
-
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RenanGabrieel&theme=whatsapp-dark" />
